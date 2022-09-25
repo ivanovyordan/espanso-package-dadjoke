@@ -11,3 +11,4 @@ matches:
         type: shell
         params:
           cmd: "curl -H 'Accept: text/plain' https://icanhazdadjoke.com/"
+          shell: wsl
